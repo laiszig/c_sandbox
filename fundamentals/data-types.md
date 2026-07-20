@@ -4,3 +4,5 @@
 - Floating point numbers - real numbers (numbers with fractions). Defined using float and double.
 - Booleans - either true or false. Defined using bool. In older versions of C, the char type was used to represent booleans.
 - Structures - will be explained later, in the Structures section.
+
+### Arrays
